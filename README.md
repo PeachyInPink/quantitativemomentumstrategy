@@ -24,4 +24,4 @@ Goal: Build an investing strategy that selects the 50 stocks with the highest pr
   
 * Utilized advanced data visualization techniques to illustrate the results, facilitating a clear understanding of the momentum strategy’s outcomes and potential market impacts.
   
-* The number of shares to buy and the HQM scores can be found in momentum_strategy.csv
+* The number of shares to buy and the HQM scores can be found in momentum_strategy.xlsx
